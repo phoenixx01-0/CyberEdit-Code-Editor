@@ -1,2 +1,20 @@
-# CyberEdit-Code-Editor
-Cyberedit is an ultra-lightweight Luau code editor powered by the Monaco Editor core. It features built-in line numbering, zero-lag startup times, and intuitive hotkeys like Ctrl + O to open files, Ctrl + S to save, and Ctrl + Q for the about page.CybereditA blazing-fast, lightweight code editor designed specifically for Luau and Lua development. Built on top of the powerful Monaco Editor, Cyberedit gives you a premium IDE experience without the heavy system footprint.✨ FeaturesMonaco Editor Powered: Enjoy VS Code-grade syntax highlighting, intelligent auto-indentation, and robust code auto-completion.Ultra Lightweight: Optimized for instant startup times and minimal memory usage.Built-in Line Numbers: Integrated line numbering to easily track your scripts and debugging points.Cross-file Support: Seamlessly edit .lua and .txt files in a streamlined workspace.⌨️ Shortcut KeysShortcutActionCtrl + OOpen a .lua or .txt fileCtrl + SSave your current fileCtrl + QOpen the About page and documentation🚀 Getting StartedTo get started with Cyberedit, simply download the latest release and run the executable. No complex installations or heavy Node.js runtimes required!
+# Cyberedit
+
+**Cyberedit** is an ultra-lightweight, high-performance code editor built specifically for Luau script development. Designed to be resource-friendly, it delivers a modern IDE experience without the heavy system footprint.
+
+## Features
+
+- **Monaco Editor Powered:** Enjoy the same powerful autocomplete, syntax highlighting, and robust ecosystem found in Visual Studio Code.
+- **Ultra-Lightweight:** Optimized for rapid startup times and minimal memory usage.
+- **Line Numbering:** Built-in line numbers for precise code navigation and debugging.
+- **One-Click Copy:** Easily copy your entire script directly to your clipboard.
+
+## Keyboard Shortcuts
+
+Boost your productivity with these global keyboard shortcuts:
+
+| Shortcut | Action |
+| :--- | :--- |
+| `Ctrl + O` | Open a `.lua` or `.txt` file |
+| `Ctrl + S` | Save the current file |
+| `Ctrl + Q` | Open the About page / documentation |
